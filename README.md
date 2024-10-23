@@ -1,5 +1,6 @@
 # Oiee, eu sou a Thais Oliveira, estudante de programação!
 Técnica em desenvolvimento de sistemas pela Etec de Poá, atualmente cursando o segundo semestre de Análise e Desenvolvimento de Sistemas na Universidade Mogi das Cruzes. Busco oportunidades para aplicar e expandir meus conhecimentos, contribuir com soluções inovadoras e crescer profissionalmente na área da tecnologia.
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaispoliveira&layout=compact&langs_count=7&theme=dracula">
 <div style="display: inline_block"><br>
   <div style="display: inline_block"><br>
   <img align="center" alt="thais-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
