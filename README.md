@@ -1,5 +1,5 @@
 # Oiee, eu sou a Thais Oliveira, estudante de programação!
-Técnica em desenvolvimento de sistemas pela Etec de Poá, atualmente cursando o segundo semestre de Análise e Desenvolvimento de Sistemas na Universidade Mogi das Cruzes. Busco oportunidades para aplicar e expandir meus conhecimentos, contribuir com soluções inovadoras e crescer profissionalmente na área da tecnologia.
+Técnica em Desenvolvimento de Sistemas pela Etec de Poá, atualmente cursando o terceiro semestre de Análise e Desenvolvimento de Sistemas na Universidade Mogi das Cruzes. Busco oportunidades para aplicar e expandir meus conhecimentos, contribuir com soluções inovadoras e crescer profissionalmente na área de tecnologia. Atualmente, atuo como desenvolvedora full-stack com Python no Odoo.
 <br>
 <br>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaispoliveira&layout=compact&langs_count=7&theme=dracula">
@@ -15,7 +15,6 @@ Técnica em desenvolvimento de sistemas pela Etec de Poá, atualmente cursando o
 ##
  
 <div> 
-  <a href="https://www.instagram.com/thataaax/profilecard/?igsh=MThqMzh0aWFhYXp0Yg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "thaispoliveira07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/thais-oliveira-458533272" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
