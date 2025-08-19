@@ -2,8 +2,8 @@
 Análise e Desenvolvimento de Sistemas na Universidade Mogi das Cruzes (UMC). Atuo com Python no back-end do Odoo, mas também estudo Java e Spring Boot. Além disso, possuo conhecimentos em HTML, CSS e PHP em nível básico a intermediário.
 <br>
 # Um pouco mais sobre mim
-🖥️ Formada como Técnica em Desenvolvimento de Sistemas pela ETEC de Poá
-👩🏻‍💻 Graduanda em Análise e Desenvolvimento de Sistemas na UMC
+- 🖥️ Formada como Técnica em Desenvolvimento de Sistemas pela ETEC de Poá <br>
+- 👩🏻‍💻 Graduanda em Análise e Desenvolvimento de Sistemas na UMC
 <br>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaispoliveira&layout=compact&langs_count=7&theme=dracula">
 <div style="display: inline_block"><br>
