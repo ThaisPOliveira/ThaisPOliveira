@@ -1,5 +1,6 @@
-# Oiee, eu sou a Thais Oliveira, estudante de programação!
-Análise e Desenvolvimento de Sistemas na Universidade Mogi das Cruzes (UMC). Atuo com Python no back-end do Odoo, mas também estudo Java e Spring Boot. Além disso, possuo conhecimentos em HTML, CSS e PHP em nível básico a intermediário.
+# 🚀 Bem-vindo(a) ao meu espaço de projetos!
+Olá! Meu nome é Thais Oliveira e sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Mogi das Cruzes (UMC). Meus repositórios têm como objetivo documentar minha evolução nos estudos e projetos na área de tecnologia.
+Atualmente, atuo com Python no back-end do Odoo e estou aprofundando meus conhecimentos em Java e Spring Boot. Também possuo experiência em HTML, CSS e PHP, em níveis básico a intermediário.
 <br>
 # Um pouco mais sobre mim
 - 🖥️ Formada como Técnica em Desenvolvimento de Sistemas pela ETEC de Poá <br>
