@@ -1,12 +1,11 @@
 # 🚀 Bem-vindo(a) ao meu espaço de projetos!
-Olá! Meu nome é Thais Oliveira, estudante de Análise e Desenvolvimento de Sistemas na Universidade Mogi das Cruzes (UMC). Meus repositórios têm como objetivo documentar minha evolução nos estudos e projetos.
-Atualmente, atuo como Back-End em Python ERP Odoo e estou aprofundando meus conhecimentos em Java. Também possuo experiência em HTML, CSS, MYSQL, JAVA e PHP, em níveis básico a intermediário.
----
+Olá! Sou estudante de Análise e Desenvolvimento de Sistemas na UMC e atuo como desenvolvedora Back-End em Python para o ERP Odoo.
+Meus projetos refletem minha jornada de aprendizado contínuo, com foco em aprimorar minhas habilidades em **Python** e **Java**. Possuo também conhecimentos em **HTML**, **CSS**, **MySQL** e **PHP**.
+
 # 🎓 Formação
 - 🖥️ Formada como Técnica em Desenvolvimento de Sistemas pela ETEC de Poá <br>
 - 👩🏻‍💻 Graduanda em Análise e Desenvolvimento de Sistemas na UMC
 - Inglês intermediário 
----
 # 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** Python, Java, HTML, CSS, MySQL, PHP
 - **Frameworks/Plataformas:** ERP Odoo
