@@ -5,7 +5,7 @@ Meus projetos refletem minha jornada de aprendizado contínuo, com foco em aprim
 # 🎓 Formação
 - 🖥️ Formada como Técnica em Desenvolvimento de Sistemas pela ETEC de Poá <br>
 - 👩🏻‍💻 Graduanda em Análise e Desenvolvimento de Sistemas na UMC
-- Inglês intermediário 
+- 📢 Inglês intermediário 
 # 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** Python, Java, HTML, CSS, MySQL, PHP
 - **Frameworks/Plataformas:** ERP Odoo
