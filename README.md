@@ -1,10 +1,10 @@
 # 🚀 Bem-vindo(a) ao meu espaço de projetos!
-Olá! Sou estudante de Análise e Desenvolvimento de Sistemas na UMC e atuo como desenvolvedora Back-End em Python para o ERP Odoo.
+Olá! Formada em Análise e Desenvolvimento de Sistemas e atuo como desenvolvedora Back-End em Python para o ERP Odoo.
 Meus projetos refletem minha jornada de aprendizado contínuo, com foco em aprimorar minhas habilidades em **Python** e **Java**. Possuo também conhecimentos em **HTML**, **CSS**, **MySQL** e **PHP**.
 
 # 🎓 Formação
 - 🖥️ Formada como Técnica em Desenvolvimento de Sistemas pela ETEC de Poá <br>
-- 👩🏻‍💻 Graduanda em Análise e Desenvolvimento de Sistemas na UMC
+- 👩🏻‍💻 Analista e Desenvolvedora de Sistemas 
 - 📢 Inglês intermediário 
 # 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** Python, Java, HTML, CSS, MySQL, PHP
