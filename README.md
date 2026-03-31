@@ -7,7 +7,7 @@ Meus projetos refletem minha jornada de aprendizado contínuo, com foco em aprim
 - 👩🏻‍💻 Analista e Desenvolvedora de Sistemas 
 - 📢 Inglês intermediário 
 # 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Python, Java, HTML, CSS, MySQL, PHP
+- **Linguagens:** Python, Java, HTML, CSS, MySQL, PHP, TypeScript
 - **Frameworks/Plataformas:** ERP Odoo
 <div style="display: inline_block"><br>
   <div style="display: inline_block"><br>
