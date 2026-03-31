@@ -12,7 +12,7 @@ Meus projetos refletem minha jornada de aprendizado contínuo, com foco em aprim
 <div style="display: inline_block"><br>
   <div style="display: inline_block"><br>
   <img align="center" alt="thais-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
+src="https://icons8.com.br/icon/ntDA7SYwfBs4/typescript" 
 </div>
 
 ##
