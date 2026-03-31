@@ -1,6 +1,6 @@
 # 🚀 Bem-vindo(a) ao meu espaço de projetos!
 Oiee! Sou formada em Análise e Desenvolvimento de Sistemas e atuo como desenvolvedora Back-End em Python para o ERP Odoo.
-Meus projetos refletem minha jornada de aprendizado contínuo, com foco em aprimorar minhas habilidades em **Python** e **Java**. Possuo também conhecimentos em **HTML**, **CSS**, **MySQL** e **PHP**.
+Meus projetos refletem minha jornada de aprendizado contínuo, com foco em aprimorar minhas habilidades em **Python** e **Java**. Possuo também conhecimentos em **HTML**, **CSS**, **MySQL**, **TypeScript** e **PHP**.
 
 # 🎓 Formação
 - 🖥️ Formada como Técnica em Desenvolvimento de Sistemas pela ETEC de Poá <br>
