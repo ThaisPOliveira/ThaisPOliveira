@@ -17,7 +17,7 @@
 Busco evoluir constantemente em **Python** e **Java**, com experiência também em **HTML, CSS e MySQL**.
 
 Técnica em Desenvolvimento de Sistemas — ETEC de Poá <br>
-Analista de Desenvolvimento de Sistemas - Universidade de Mogi das Cruzes <br>
+Analista de Desenvolvimento de Sistemas —  Universidade de Mogi das Cruzes <br>
 Inglês intermediário
 
 <div align="center">
