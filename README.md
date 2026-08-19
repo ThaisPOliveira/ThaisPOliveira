@@ -21,7 +21,7 @@ Analista de Desenvolvimento de Sistemas —  Universidade de Mogi das Cruzes <br
 Inglês intermediário
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,php,ts,vscode"/>
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,vscode"/>
 </div>
 
 <div align="center">
