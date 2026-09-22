@@ -1,6 +1,6 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0A1F44&section=header"/>
-  <h1>Hello, my name is Thais Oliveira</h1>
+  <h1>Hi, I'm Thais Oliveira ✧</h1>
   <a href="https://www.linkedin.com/in/thais-oliveira-458533272" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A1F44?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
